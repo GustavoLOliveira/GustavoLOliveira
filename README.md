@@ -16,4 +16,4 @@ Olá, Eu sou o Gustavo Oliveira 👋
   
   ##
   
-   ![Snake animation](https://github.com/GustavoLOliveira)
+   ![Snake animation](https://github.com/GustavoLOliveira/GustavoLOliveira/tree/main/.github/workflows)
